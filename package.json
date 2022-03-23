@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "./index.js",
   "directories": {
+    "example": "example",
     "lib": "lib"
   },
   "scripts": {
@@ -11,9 +12,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "type": "module",
   "dependencies": {
     "node-static": "^0.7.11"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnderKingJ/SimpleAnalytics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EnderKingJ/SimpleAnalytics/issues"
+  },
+  "homepage": "https://github.com/EnderKingJ/SimpleAnalytics#readme",
+  "description": ""
 }
