@@ -1,4 +1,5 @@
-import Analytics from '@enderkingj/simpleanalytics';
+//import Analytics from '@enderkingj/simpleanalytics';
+import Analytics from '../index.js';
 import http from 'node:http';
 import serve from 'node-static';
 
